@@ -4,4 +4,8 @@
     <string name="boxTwo">Box Two</string>
     <string name="howToplayTxt">How To Play</string>
     <string name="tap_the_boxes_and_buttons">Tap the screen and buttons.</string>
+    <string name="redbtnTxt">Red</string>
+    <string name="blueBtnTxt">Blue</string>
+    <string name="yellowBtnTxt">Yellow</string>
+    <string name="greenBtnTxt">Green</string>
 </resources>
