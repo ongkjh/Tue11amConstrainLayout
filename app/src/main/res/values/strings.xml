@@ -2,4 +2,6 @@
     <string name="app_name">Tue11amConstrainLayout</string>
     <string name="boxOne">Box One</string>
     <string name="boxTwo">Box Two</string>
+    <string name="howToplayTxt">How To Play</string>
+    <string name="tap_the_boxes_and_buttons">Tap the screen and buttons.</string>
 </resources>
